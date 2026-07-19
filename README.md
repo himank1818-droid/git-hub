@@ -59,19 +59,27 @@
 
 📧 Email: [himank1818@gmail.com](mailto:himank1818@gmail.com)
 
-<!-- modify this form HTML and place wherever you want your form -->
-<form
-  action="https://formspree.io/f/xqerqnaa"
-  method="POST"
->
-  <label>
-    Your email:
-    <input type="email" name="email">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-  <!-- your other form fields go here -->
-  <button type="submit">Send</button>
+<h2 align="center">📩 Contact Me</h2>
+
+<p align="center">
+  If you have any questions, projects, or collaboration ideas, feel free to reach out!
+</p>
+
+<div align="center">
+
+<form action="https://formspree.io/f/xqerqnaa" method="POST">
+
+  <input type="text" name="name" placeholder="Your Name" required>
+  <br><br>
+
+  <input type="email" name="email" placeholder="Your Email" required>
+  <br><br>
+
+  <textarea name="message" placeholder="Your Message" rows="5" required></textarea>
+  <br><br>
+
+  <button type="submit">Send Message 🚀</button>
+
 </form>
+
+</div>
