@@ -51,4 +51,7 @@
 
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 
-YOUR_USERNAME
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia)
+
