@@ -22,10 +22,6 @@
 
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
