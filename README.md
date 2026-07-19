@@ -59,7 +59,7 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/himanksingh9648326698)
+[![LinkedIn](www.linkedin.com/in/himanksingh9648326698)](www.linkedin.com/in/himanksingh9648326698)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome)](YOUR_WEBSITE)
 
