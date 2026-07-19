@@ -24,6 +24,20 @@
 
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
 
+## 📌 Featured Projects
+
+🔹 AI Assistant
+
+🔹 Portfolio Website
+
+🔹 Contact Management API
+
+🔹 Authentication System
+
+🔹 Stock Prediction AI
+
+🔹 Weather App
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
