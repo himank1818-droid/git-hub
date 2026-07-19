@@ -54,7 +54,11 @@
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia)
-## 🐍 Contribution Graph
 
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+## 🌐 Connect with Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome)](YOUR_WEBSITE)
+
+[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
