@@ -4,14 +4,17 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+Developer;AI+Enthusiast;Building+Real+World+Projects" />
 </p>
-## 🚀 About Me
+-----------------------------------------------
+| About Me                     |   📷 Photo   |
+|                              |             |
+| 🎓 Student                   |             |
+| 💻 Full Stack Developer      |             |
+| 🐍 Python Developer          |             |
+| 🤖 AI Enthusiast             |             |
+| 🌱 Building Projects         |             |
+-----------------------------------------------
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/images/profile.png" width="250" alt="Himank Singh">
 
-- 🎓 Computer Science Student
-- 💻 Full Stack Developer
-- 🐍 Python Developer
-- 🤖 Learning AI & Machine Learning
-- 🌱 Currently building real-world projects
-- 💼 Open to Freelance Work
 ## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
