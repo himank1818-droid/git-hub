@@ -57,5 +57,5 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome)](YOUR_WEBSITE)
 
-(📧 Email: [himank1818@gmail.com](mailto:himank1818@gmail.com))
+[![Email] (himank1818@gmail.com](mailto:himank1818@gmail.com)
 
