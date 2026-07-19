@@ -30,13 +30,13 @@
 
 🔹 Portfolio Website
 
-🔹 Contact Management API
+🔹 Chat bots 
 
-🔹 Authentication System
+🔹 3D models printing
 
-🔹 Stock Prediction AI
+🔹 Ai bots 
 
-🔹 Weather App
+🔹 Website developement
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
